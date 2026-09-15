@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: layers-categorias
+    env: docker
+    plan: free
+    region: oregon
